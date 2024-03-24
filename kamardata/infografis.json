@@ -1,0 +1,24 @@
+{
+  data: [
+    {
+        "tanggal": "22 Maret 2024",
+        "judul": "Selamat hari air sedunia! Tahukah kamu, jumlah pelanggan PUDAM Karanganyar?",
+        "url": "https://wisnurdi.github.io/publicdata/kamardata/infografis/240322_hari_air_sedunia.jpeg"
+    },
+    {
+        "tanggal": "22 Maret 2024",
+        "judul": "Proyeksi Penduduk Kabupaten Karanganyar",
+        "url": "https://wisnurdi.github.io/publicdata/kamardata/infografis/240322_proyeksi.jpeg"
+    },
+    {
+        "tanggal": "21 Maret 2024",
+        "judul": "Industri di Kabupaten Karanganyar 2021-2022",
+        "url": "https://wisnurdi.github.io/publicdata/kamardata/infografis/240321industri.jpeg"
+    },
+    {
+        "tanggal": "20 Maret 2024",
+        "judul": "Indeks Perkembangan Harga (IPH) Minggu Kedua Maret 2024 Kabupaten Karanganyar",
+        "url": "https://wisnurdi.github.io/publicdata/kamardata/infografis/240320_iph.jpeg"
+    }
+  ]
+}
