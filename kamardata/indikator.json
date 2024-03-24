@@ -1,308 +1,1606 @@
-[
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2023,
-    "nilai": "70,69"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2022,
-    "nilai": "70,7"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2021,
-    "nilai": "73,15"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2020,
-    "nilai": "73,55"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2019,
-    "nilai": "70,19"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2018,
-    "nilai": "70,45"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2017,
-    "nilai": "70,24"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2015,
-    "nilai": "71,18"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2014,
-    "nilai": "69,58"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2013,
-    "nilai": "71,04"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2012,
-    "nilai": "72,21"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2011,
-    "nilai": "72,71"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2010,
-    "nilai": "75,03"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2009,
-    "nilai": "70,23"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2008,
-    "nilai": "70,36"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpak",
-    "tahun": 2007,
-    "nilai": "70,45"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2023,
-    "nilai": "4,35"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2022,
-    "nilai": "5,7"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2021,
-    "nilai": "5,89"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2020,
-    "nilai": "5,96"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2019,
-    "nilai": "3,12"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2018,
-    "nilai": "2,28"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2017,
-    "nilai": "3,17"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2015,
-    "nilai": "3,6"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2014,
-    "nilai": "3,54"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2013,
-    "nilai": "3,84"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2012,
-    "nilai": "5,82"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2011,
-    "nilai": "5,78"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2010,
-    "nilai": "6,62"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2009,
-    "nilai": "8,26"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2008,
-    "nilai": "5,7"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "tpt",
-    "tahun": 2007,
-    "nilai": "6,63"
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2023,
-    "nilai": 2207484
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2022,
-    "nilai": 2064313
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2021,
-    "nilai": 2054040
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2020,
-    "nilai": 1989000
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2019,
-    "nilai": 1833000
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2018,
-    "nilai": 1696000
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2017,
-    "nilai": 1560000
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2016,
-    "nilai": 1420000
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2015,
-    "nilai": 1226000
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2014,
-    "nilai": 1060000
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2013,
-    "nilai": 896500
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2012,
-    "nilai": 846000
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2011,
-    "nilai": 801500
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2010,
-    "nilai": 761000
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2009,
-    "nilai": 719000
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2008,
-    "nilai": 650000
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2007,
-    "nilai": 580000
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2006,
-    "nilai": 500000
-  },
-  {
-    "wilayah": 3313,
-    "indikator": "umk",
-    "tahun": 2005,
-    "nilai": 420000
-  }
-]
+{
+  "data": [
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2023,
+      "nilai": "70,69"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2022,
+      "nilai": "70,7"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2021,
+      "nilai": "73,15"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2020,
+      "nilai": "73,55"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2019,
+      "nilai": "70,19"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2018,
+      "nilai": "70,45"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2017,
+      "nilai": "70,24"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2015,
+      "nilai": "71,18"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2014,
+      "nilai": "69,58"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2013,
+      "nilai": "71,04"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2012,
+      "nilai": "72,21"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2011,
+      "nilai": "72,71"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2010,
+      "nilai": "75,03"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2009,
+      "nilai": "70,23"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2008,
+      "nilai": "70,36"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpak",
+      "tahun": 2007,
+      "nilai": "70,45"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2023,
+      "nilai": "4,35"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2022,
+      "nilai": "5,7"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2021,
+      "nilai": "5,89"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2020,
+      "nilai": "5,96"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2019,
+      "nilai": "3,12"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2018,
+      "nilai": "2,28"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2017,
+      "nilai": "3,17"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2015,
+      "nilai": "3,6"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2014,
+      "nilai": "3,54"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2013,
+      "nilai": "3,84"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2012,
+      "nilai": "5,82"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2011,
+      "nilai": "5,78"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2010,
+      "nilai": "6,62"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2009,
+      "nilai": "8,26"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2008,
+      "nilai": "5,7"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "tpt",
+      "tahun": 2007,
+      "nilai": "6,63"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2023,
+      "nilai": 2207484
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2022,
+      "nilai": 2064313
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2021,
+      "nilai": 2054040
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2020,
+      "nilai": 1989000
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2019,
+      "nilai": 1833000
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2018,
+      "nilai": 1696000
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2017,
+      "nilai": 1560000
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2016,
+      "nilai": 1420000
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2015,
+      "nilai": 1226000
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2014,
+      "nilai": 1060000
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2013,
+      "nilai": 896500
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2012,
+      "nilai": 846000
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2011,
+      "nilai": 801500
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2010,
+      "nilai": 761000
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2009,
+      "nilai": 719000
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2008,
+      "nilai": 650000
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2007,
+      "nilai": 580000
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2006,
+      "nilai": 500000
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "umk",
+      "tahun": 2005,
+      "nilai": 420000
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "desa",
+      "tahun": 2023,
+      "nilai": 177
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "desa",
+      "tahun": 2022,
+      "nilai": 177
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "desa",
+      "tahun": 2021,
+      "nilai": 177
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "desa",
+      "tahun": 2020,
+      "nilai": 177
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "desa",
+      "tahun": 2019,
+      "nilai": 177
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "desa",
+      "tahun": 2018,
+      "nilai": 177
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "desa",
+      "tahun": 2017,
+      "nilai": 177
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "desa",
+      "tahun": 2016,
+      "nilai": 177
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ipm",
+      "tahun": 2023,
+      "nilai": "77,31"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ipm",
+      "tahun": 2022,
+      "nilai": "76,58"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ipm",
+      "tahun": 2021,
+      "nilai": "75,99"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ipm",
+      "tahun": 2020,
+      "nilai": "75,86"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ipm",
+      "tahun": 2019,
+      "nilai": "75,89"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ipm",
+      "tahun": 2018,
+      "nilai": "75,54"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ipm",
+      "tahun": 2017,
+      "nilai": "75,22"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ipm",
+      "tahun": 2016,
+      "nilai": "74,9"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ipm",
+      "tahun": 2015,
+      "nilai": "74,26"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ipm",
+      "tahun": 2014,
+      "nilai": "73,89"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ipm",
+      "tahun": 2013,
+      "nilai": "73,33"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ipm",
+      "tahun": 2012,
+      "nilai": "72,26"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ipm",
+      "tahun": 2011,
+      "nilai": 71
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ipm",
+      "tahun": 2010,
+      "nilai": "70,31"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "uhh",
+      "tahun": 2023,
+      "nilai": "77,72"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "uhh",
+      "tahun": 2022,
+      "nilai": "77,64"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "uhh",
+      "tahun": 2021,
+      "nilai": "77,55"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "uhh",
+      "tahun": 2020,
+      "nilai": "77,47"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "uhh",
+      "tahun": 2019,
+      "nilai": "77,38"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "uhh",
+      "tahun": 2018,
+      "nilai": "77,36"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "uhh",
+      "tahun": 2017,
+      "nilai": "77,31"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "uhh",
+      "tahun": 2016,
+      "nilai": "77,11"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "uhh",
+      "tahun": 2015,
+      "nilai": "77,11"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "uhh",
+      "tahun": 2014,
+      "nilai": "76,71"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "uhh",
+      "tahun": 2013,
+      "nilai": "76,7"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "uhh",
+      "tahun": 2012,
+      "nilai": "76,67"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "uhh",
+      "tahun": 2011,
+      "nilai": "76,64"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "uhh",
+      "tahun": 2010,
+      "nilai": "76,61"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "hls",
+      "tahun": 2023,
+      "nilai": "13,71"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "hls",
+      "tahun": 2022,
+      "nilai": "13,7"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "hls",
+      "tahun": 2021,
+      "nilai": "13,69"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "hls",
+      "tahun": 2020,
+      "nilai": "13,68"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "hls",
+      "tahun": 2019,
+      "nilai": "13,67"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "hls",
+      "tahun": 2018,
+      "nilai": "13,66"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "hls",
+      "tahun": 2017,
+      "nilai": "13,65"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "hls",
+      "tahun": 2016,
+      "nilai": "13,64"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "hls",
+      "tahun": 2015,
+      "nilai": "13,27"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "hls",
+      "tahun": 2014,
+      "nilai": "13,26"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "hls",
+      "tahun": 2013,
+      "nilai": "12,86"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "hls",
+      "tahun": 2012,
+      "nilai": "12,67"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "hls",
+      "tahun": 2011,
+      "nilai": "12,11"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "hls",
+      "tahun": 2010,
+      "nilai": "12,03"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "rls",
+      "tahun": 2023,
+      "nilai": "9,02"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "rls",
+      "tahun": 2022,
+      "nilai": "8,79"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "rls",
+      "tahun": 2021,
+      "nilai": "8,57"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "rls",
+      "tahun": 2020,
+      "nilai": "8,56"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "rls",
+      "tahun": 2019,
+      "nilai": "8,52"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "rls",
+      "tahun": 2018,
+      "nilai": "8,51"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "rls",
+      "tahun": 2017,
+      "nilai": "8,5"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "rls",
+      "tahun": 2016,
+      "nilai": "8,49"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "rls",
+      "tahun": 2015,
+      "nilai": "8,48"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "rls",
+      "tahun": 2014,
+      "nilai": "8,47"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "rls",
+      "tahun": 2013,
+      "nilai": "8,38"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "rls",
+      "tahun": 2012,
+      "nilai": "7,8"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "rls",
+      "tahun": 2011,
+      "nilai": "7,46"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "rls",
+      "tahun": 2010,
+      "nilai": "7,26"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ppp",
+      "tahun": 2023,
+      "nilai": 12260
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ppp",
+      "tahun": 2022,
+      "nilai": 11798
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ppp",
+      "tahun": 2021,
+      "nilai": 11509
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ppp",
+      "tahun": 2020,
+      "nilai": 11428
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ppp",
+      "tahun": 2019,
+      "nilai": 11569
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ppp",
+      "tahun": 2018,
+      "nilai": 11223
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ppp",
+      "tahun": 2017,
+      "nilai": 10933
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ppp",
+      "tahun": 2016,
+      "nilai": 10722
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ppp",
+      "tahun": 2015,
+      "nilai": 10486
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ppp",
+      "tahun": 2014,
+      "nilai": "10313,38"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ppp",
+      "tahun": 2013,
+      "nilai": "10285,65"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ppp",
+      "tahun": 2012,
+      "nilai": "10190,83"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ppp",
+      "tahun": 2011,
+      "nilai": "10023,49"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "ppp",
+      "tahun": 2010,
+      "nilai": "9712,07"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2023,
+      "nilai": "88,64"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2022,
+      "nilai": "88,56"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2021,
+      "nilai": 95
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2020,
+      "nilai": "91,7"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2019,
+      "nilai": "84,5"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2018,
+      "nilai": "87,8"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2017,
+      "nilai": "106,8"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2016,
+      "nilai": "107,7"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2015,
+      "nilai": "106,4"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2014,
+      "nilai": "107,3"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2013,
+      "nilai": "114,4"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2012,
+      "nilai": "115,2"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2011,
+      "nilai": "124,5"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2010,
+      "nilai": "113,8"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2009,
+      "nilai": "118,8"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2008,
+      "nilai": "125,9"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2007,
+      "nilai": "138,9"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2006,
+      "nilai": "148,6"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2005,
+      "nilai": "130,4"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2004,
+      "nilai": "132,6"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2003,
+      "nilai": "141,7"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 2002,
+      "nilai": 134
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 1999,
+      "nilai": 113
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "miskin",
+      "tahun": 1996,
+      "nilai": "106,5"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2023,
+      "nilai": 465703
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2022,
+      "nilai": 424677
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2021,
+      "nilai": 401542
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2020,
+      "nilai": 385563
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2019,
+      "nilai": 365151
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2018,
+      "nilai": 348896
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2017,
+      "nilai": 340538
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2016,
+      "nilai": 329531
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2015,
+      "nilai": 303056
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2014,
+      "nilai": 288814
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2013,
+      "nilai": 275865
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2012,
+      "nilai": 255072
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2011,
+      "nilai": 236093
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2010,
+      "nilai": 216954
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2009,
+      "nilai": 202500
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2008,
+      "nilai": 173222
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2007,
+      "nilai": 164134
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2006,
+      "nilai": 156733
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2005,
+      "nilai": 148987
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2004,
+      "nilai": 134693
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2003,
+      "nilai": 133215
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 2002,
+      "nilai": 107583
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 1999,
+      "nilai": 77754
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gk",
+      "tahun": 1996,
+      "nilai": 33045
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2023,
+      "nilai": "9,79"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2022,
+      "nilai": "9,85"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2021,
+      "nilai": "10,68"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2020,
+      "nilai": "10,28"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2019,
+      "nilai": "9,55"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2018,
+      "nilai": "10,01"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2017,
+      "nilai": "12,28"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2016,
+      "nilai": "12,49"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2015,
+      "nilai": "12,46"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2014,
+      "nilai": "12,62"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2013,
+      "nilai": "13,58"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2012,
+      "nilai": "14,07"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2011,
+      "nilai": "15,29"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2010,
+      "nilai": "13,98"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2009,
+      "nilai": "14,73"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2008,
+      "nilai": "15,68"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2007,
+      "nilai": "17,39"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2006,
+      "nilai": "18,69"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2005,
+      "nilai": "16,14"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2004,
+      "nilai": "16,14"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2003,
+      "nilai": "17,45"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 2002,
+      "nilai": "17,04"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 1999,
+      "nilai": "14,83"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p0",
+      "tahun": 1996,
+      "nilai": "14,52"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2023,
+      "nilai": "1,22"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2022,
+      "nilai": "1,64"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2021,
+      "nilai": "1,61"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2020,
+      "nilai": "1,56"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2019,
+      "nilai": "1,45"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2018,
+      "nilai": "1,7"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2017,
+      "nilai": "1,85"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2016,
+      "nilai": "2,09"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2015,
+      "nilai": "1,82"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2014,
+      "nilai": "2,02"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2013,
+      "nilai": "2,36"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2012,
+      "nilai": "2,24"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2011,
+      "nilai": "1,98"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2010,
+      "nilai": "1,98"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2009,
+      "nilai": "1,84"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2008,
+      "nilai": "3,02"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2007,
+      "nilai": "2,46"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p1",
+      "tahun": 2006,
+      "nilai": "2,51"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2023,
+      "nilai": "0,24"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2022,
+      "nilai": "0,37"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2021,
+      "nilai": "0,37"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2020,
+      "nilai": "0,33"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2019,
+      "nilai": "0,35"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2018,
+      "nilai": "0,43"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2017,
+      "nilai": "0,43"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2016,
+      "nilai": "0,51"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2015,
+      "nilai": "0,4"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2014,
+      "nilai": "0,48"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2013,
+      "nilai": "0,61"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2012,
+      "nilai": "0,5"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2011,
+      "nilai": "0,41"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2010,
+      "nilai": "0,5"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2009,
+      "nilai": "0,36"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2008,
+      "nilai": "0,78"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2007,
+      "nilai": "0,5"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "p2",
+      "tahun": 2006,
+      "nilai": "0,53"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gini",
+      "tahun": 2023,
+      "nilai": "0,389"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gini",
+      "tahun": 2022,
+      "nilai": "0,36"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "gini",
+      "tahun": 2021,
+      "nilai": "0,387"
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "penduduk",
+      "tahun": 2023,
+      "nilai": 955116
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "penduduk",
+      "tahun": 2022,
+      "nilai": 947642
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "penduduk",
+      "tahun": 2021,
+      "nilai": 938808
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "penduduk",
+      "tahun": 2020,
+      "nilai": 931963
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "penduduk",
+      "tahun": 2019,
+      "nilai": 886519
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "penduduk",
+      "tahun": 2018,
+      "nilai": 879078
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "penduduk",
+      "tahun": 2017,
+      "nilai": 869699
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "penduduk",
+      "tahun": 2015,
+      "nilai": 856198
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "penduduk",
+      "tahun": 2014,
+      "nilai": 848255
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "penduduk",
+      "tahun": 2013,
+      "nilai": 840171
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "penduduk",
+      "tahun": 2012,
+      "nilai": 838762
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "penduduk",
+      "tahun": 2011,
+      "nilai": 821694
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "penduduk",
+      "tahun": 2010,
+      "nilai": 813196
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "penduduk",
+      "tahun": 2008,
+      "nilai": 812423
+    },
+    {
+      "wilayah": 3313,
+      "indikator": "pe",
+      "tahun": 2023,
+      "nilai": "5,53"
+    },
+    {
+      "wilayah": 3314,
+      "indikator": "pe",
+      "tahun": 2022,
+      "nilai": "5,87"
+    },
+    {
+      "wilayah": 3315,
+      "indikator": "pe",
+      "tahun": 2021,
+      "nilai": "3,57"
+    },
+    {
+      "wilayah": 3316,
+      "indikator": "pe",
+      "tahun": 2020,
+      "nilai": "-1,87"
+    },
+    {
+      "wilayah": 3317,
+      "indikator": "pe",
+      "tahun": 2019,
+      "nilai": "5,76"
+    },
+    {
+      "wilayah": 3318,
+      "indikator": "pe",
+      "tahun": 2018,
+      "nilai": "5,98"
+    },
+    {
+      "wilayah": 3319,
+      "indikator": "pe",
+      "tahun": 2017,
+      "nilai": "5,77"
+    },
+    {
+      "wilayah": 3320,
+      "indikator": "pe",
+      "tahun": 2016,
+      "nilai": "5,4"
+    },
+    {
+      "wilayah": 3321,
+      "indikator": "pe",
+      "tahun": 2015,
+      "nilai": "5,05"
+    },
+    {
+      "wilayah": 3322,
+      "indikator": "pe",
+      "tahun": 2014,
+      "nilai": "5,22"
+    },
+    {
+      "wilayah": 3323,
+      "indikator": "pe",
+      "tahun": 2013,
+      "nilai": "5,69"
+    },
+    {
+      "wilayah": 3324,
+      "indikator": "pe",
+      "tahun": 2012,
+      "nilai": "5,9"
+    },
+    {
+      "wilayah": 3325,
+      "indikator": "pe",
+      "tahun": 2011,
+      "nilai": "4,95"
+    }
+  ]
+}
